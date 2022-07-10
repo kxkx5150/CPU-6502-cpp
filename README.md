@@ -8,6 +8,17 @@ Apple II 1977
 
 <br><br><br>
 
+
+
+https://user-images.githubusercontent.com/10168979/178127943-f5ad0967-ced6-4eb5-9a7b-c885db925f68.mp4
+
+
+
+
+<br><br><br>
+
+
+
 vscode extensions
 
 <pre>
