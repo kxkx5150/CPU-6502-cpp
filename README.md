@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/10168979/178127943-f5ad0967-ced6-4eb5-
 
 
 <br><br><br>
+<br><br><br>
 
 
 
@@ -32,8 +33,6 @@ vscode extensions
     IntelliCode
     clangd
 </pre>
-
-https://user-images.githubusercontent.com/10168979/167252280-cf27defe-456b-4261-877a-c19ef5543edc.mp4
 
 <br><br><br>
 
