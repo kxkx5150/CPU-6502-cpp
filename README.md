@@ -8,6 +8,13 @@ Apple II 1977
 
 <br><br><br>
 
+install SDL2
+
+<pre>
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
+</pre>
+
+<br><br><br>
 
 
 https://user-images.githubusercontent.com/10168979/178127943-f5ad0967-ced6-4eb5-9a7b-c885db925f68.mp4
